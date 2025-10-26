@@ -18,7 +18,7 @@ The dashboard was built using the following tools and technologies:
 - 📂 **Power Query** – For data transformation, cleaning, and shaping the HR dataset.  
 - 🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures (e.g., attrition %, average satisfaction).  
 - 🧩 **Data Modeling** – Relationships between employee details, departments, and attrition data were modeled for accurate filtering.  
-- 📁 **File Format** – `.pbix` (Power BI project file), `.csv` (dataset), and `.png` (dashboard preview).
+- 📁 **File Format** – `.pbix` (Power BI project file), `.csv` (dataset), and `.jpg` (dashboard preview).
 
 ---
 
