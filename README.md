@@ -95,7 +95,7 @@ Indicates that single employees have the highest attrition (45.78%), followed by
 
 | Dashboard Preview |
 |:------------------:|
-| ![IBM HR Analytics Dashboard](IBM_HR_Analytics_Employee_Attrition_&_Performance.JPG) |
+| ![IBM HR Analytics Dashboard](https://github.com/sejalnan/IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/Dashboard_Snapshot.JPG) |
 
 ---
 
